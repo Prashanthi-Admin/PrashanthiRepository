@@ -7,3 +7,4 @@ elif age >= 80:
     print('Ok, you will get a free drink.')
 else:
     print('Sure, enjoy your drink.')
+    print("Have a great day")
