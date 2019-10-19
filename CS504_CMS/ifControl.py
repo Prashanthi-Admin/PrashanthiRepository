@@ -6,4 +6,4 @@ if age < 25:
 elif age >= 70:
     print('Ok, you will get a free drink. ')
 else:
-    print('Sure, enjoy your drink.')
+    print('Sure, enjoy your drink. ')
